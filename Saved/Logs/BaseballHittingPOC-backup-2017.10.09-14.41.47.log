@@ -1,0 +1,1056 @@
+﻿Log file open, 10/09/17 14:14:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BaseballHittingPOC
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(478673675) SRandInit(478673675).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.216990
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.15.0
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: F:/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.09-18.14.57:991][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.09-18.14.57:991][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.09-18.14.58:172][  0]LogInit: Computer: CARMODY-PC
+[2017.10.09-18.14.58:172][  0]LogInit: User: Michael
+[2017.10.09-18.14.58:172][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.09-18.14.58:172][  0]LogInit: High frequency timer resolution =3.222653 MHz
+[2017.10.09-18.14.58:172][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2017.10.09-18.14.58:172][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.09-18.14.58:172][  0]LogMemory: Process Physical Memory: 285.88 MB used, 285.88 MB peak
+[2017.10.09-18.14.58:172][  0]LogMemory: Process Virtual Memory: 287.86 MB used, 287.86 MB peak
+[2017.10.09-18.14.58:172][  0]LogMemory: Physical Memory: 8906.59 MB used,  3330.14 MB free, 12236.72 MB total
+[2017.10.09-18.14.58:172][  0]LogMemory: Virtual Memory: 713.59 MB used,  3330.14 MB free, 134217728.00 MB total
+[2017.10.09-18.14.59:589][  0]LogInit: Using OS detected language (en-US).
+[2017.10.09-18.14.59:589][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.09-18.15.00:214][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.09-18.15.12:731][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.09-18.15.12:797][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2017.10.09-18.15.12:797][  0]LogD3D11RHI:       4058/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2017.10.09-18.15.12:802][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.09-18.15.12:802][  0]LogD3D11RHI:       0/0/6118 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.09-18.15.12:802][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.09-18.15.12:813][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.09-18.15.12:814][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.09-18.15.12:814][  0]LogWindows: EnumDisplayDevices:
+[2017.10.09-18.15.12:814][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2017.10.09-18.15.12:814][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2017.10.09-18.15.12:815][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.10.09-18.15.12:815][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2017.10.09-18.15.12:815][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.09-18.15.12:815][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2017.10.09-18.15.12:815][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2017.10.09-18.15.12:815][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2017.10.09-18.15.12:815][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.09-18.15.12:897][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.09-18.15.12:927][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.09-18.15.12:932][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Intermediate/Shaders/WorkingDirectory/5204/).
+[2017.10.09-18.15.12:933][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Michael/AppData/Local/Temp/UnrealShaderWorkingDir/8A1525AA46B305CD4BCA8F83F33DFF93/'.
+[2017.10.09-18.15.12:933][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.09-18.15.24:455][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.09-18.15.24:526][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.09-18.15.24:678][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.09-18.15.24:750][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.09-18.15.24:903][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.09-18.15.25:042][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.09-18.15.25:135][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.09-18.15.25:222][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.09-18.15.25:302][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.09-18.15.25:419][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.09-18.15.25:517][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.09-18.15.25:613][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.09-18.15.25:707][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.09-18.15.25:802][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.09-18.15.25:867][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.09-18.15.26:003][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.09-18.15.26:003][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.09-18.15.26:074][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.09-18.15.26:291][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.09-18.15.26:347][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.09-18.15.26:434][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.09-18.15.26:567][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.09-18.15.26:667][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.09-18.15.26:743][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.09-18.15.26:743][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.09-18.15.27:914][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.09-18.15.28:532][  0]LogDerivedDataCache: Loaded boot cache 0.62s 103MB C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.09-18.15.28:532][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.09-18.15.28:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.09-18.15.28:532][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.09-18.15.28:532][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.09-18.15.28:532][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.09-18.15.28:573][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.09-18.15.28:586][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Michael/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.09-18.15.28:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.09-18.15.28:605][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.09-18.15.28:645][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.09-18.15.28:645][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.09-18.15.33:047][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2017.10.09-18.15.33:275][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.09-18.15.33:547][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.09-18.15.34:415][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.09-18.15.34:512][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.09-18.15.34:512][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.09-18.15.34:512][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.09-18.15.34:512][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.09-18.15.34:512][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.09-18.15.35:113][  0]LogNetVersion: BaseballHittingPOC , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 419663869)
+[2017.10.09-18.15.35:462][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.097090 seconds
+[2017.10.09-18.15.35:501][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.09-18.15.35:501][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.09-18.15.35:502][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.09-18.15.35:687][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.09-18.16.07:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.09-18.16.08:039][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.09-18.16.09:691][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.09-18.16.10:658][  0]SourceControl: Source control is disabled
+[2017.10.09-18.16.10:658][  0]SourceControl: Source control is disabled
+[2017.10.09-18.16.10:767][  0]SourceControl: Source control is disabled
+[2017.10.09-18.16.10:879][  0]SourceControl: Source control is disabled
+[2017.10.09-18.16.12:731][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.09-18.16.13:424][  0]LogOcInput: OculusInput pre-init called
+[2017.10.09-18.16.14:070][  0]LogEngine: Initializing Engine...
+[2017.10.09-18.16.17:333][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-2B8C2E96
+[2017.10.09-18.16.17:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.09-18.16.17:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.09-18.16.18:077][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.09-18.16.18:109][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.16.18:128][  0]LogInit: FAudioDevice initialized.
+[2017.10.09-18.16.18:272][  0]LogDerivedDataCache: Saved boot cache 0.14s 93MB C:/Users/Michael/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.09-18.16.18:295][  0]LogInit: Texture streaming: Enabled
+[2017.10.09-18.16.18:470][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.09-18.16.19:025][  0]LogInit: Transaction tracking system initialized
+[2017.10.09-18.16.19:647][  0]BlueprintLog: New page: Editor Load
+[2017.10.09-18.16.21:825][  0]LocalizationService: Localization service is disabled
+[2017.10.09-18.16.23:457][  0]LogConsoleResponse: Display: 
+[2017.10.09-18.16.24:474][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.09-18.16.24:474][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.09-18.16.24:474][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.09-18.16.25:359][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/' took 0.02s
+[2017.10.09-18.16.28:402][  0]SourceControl: Source control is disabled
+[2017.10.09-18.16.28:403][  0]Cmd: MAP LOAD FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.09-18.16.28:404][  0]LightingResults: New page: Lighting Build
+[2017.10.09-18.16.28:636][  0]MapCheck: New page: Map Check
+[2017.10.09-18.16.28:636][  0]LightingResults: New page: Lighting Build
+[2017.10.09-18.16.29:386][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.16.29:556][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.09-18.16.29:600][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.09-18.16.29:685][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.664ms to complete.
+[2017.10.09-18.16.29:686][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.283
+[2017.10.09-18.16.30:041][  0]LogCollectionManager: Loaded 0 collections in 0.003374 seconds
+[2017.10.09-18.16.30:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/Collections/' took 0.01s
+[2017.10.09-18.16.30:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Developers/Michael/Collections/' took 0.01s
+[2017.10.09-18.16.30:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Collections/' took 0.01s
+[2017.10.09-18.16.30:136][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.09-18.16.30:147][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2386 classes and 500 folders.
+[2017.10.09-18.16.30:285][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0013 seconds. Added 0 classes and 0 folders.
+[2017.10.09-18.16.30:372][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.09-18.16.30:478][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.10.09-18.16.30:700][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.09-18.16.30:703][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.09-18.16.30:710][  0]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.09-18.16.30:913][  0]LogRenderer: Reallocating scene render targets to support 1104x564 Format 10 NumSamples 1 (Frame:1).
+[2017.10.09-18.16.31:026][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.09-18.16.31:522][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.10.09-18.16.31:522][  0]LogLoad: (Engine Initialization) Total time: 105.67 seconds
+[2017.10.09-18.16.31:522][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.09-18.16.31:523][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.09-18.16.31:523][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.09-18.16.31:928][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.09-18.16.32:565][  2]LogAssetRegistry: Asset discovery search completed in 59.5407 seconds
+[2017.10.09-18.16.32:573][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.09-18.16.32:573][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000108 seconds (updated 0 objects)
+[2017.10.09-18.16.32:939][  3]LogSlate: Took 0.000469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.09-18.18.48:918][915]LogSlate: Took 0.000884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.09-18.18.49:029][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball_C' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.SKEL_Baseball_C:ReceiveBeginPlay' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.SKEL_Baseball_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.SKEL_Baseball_C:ReceiveTick' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.SKEL_Baseball_C:StaticMesh' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.SKEL_Baseball_C:UserConstructionScript' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.SKEL_Baseball_C' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball_C:StaticMesh' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball_C:ReceiveBeginPlay' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball_C:UserConstructionScript' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:030][915]LogMetaData: Removing '/Game/BaseballPOC/Baseball.Baseball_C:ExecuteUbergraph_Baseball' ref from Metadata '/Game/Baseball.PackageMetaData'
+[2017.10.09-18.18.49:142][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:142][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher_C' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:142][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:142][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C:ReceiveBeginPlay' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C:ReceiveTick' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C:DefaultSceneRoot1' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C:StaticMesh' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C:UserConstructionScript' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.SKEL_Pitcher_C' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher_C:DefaultSceneRoot1' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher_C:StaticMesh' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher_C:ReceiveTick' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher_C:UserConstructionScript' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:143][915]LogMetaData: Removing '/Game/BaseballPOC/Pitcher.Pitcher_C:ExecuteUbergraph_Pitcher' ref from Metadata '/Game/Pitcher.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee_C' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:ReceiveBeginPlay' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:ReceiveTick' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:ReceiveHit' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:DefaultSceneRoot' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:StaticMesh' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C:UserConstructionScript' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.SKEL_Tee_C' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee_C:DefaultSceneRoot' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee_C:StaticMesh' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee_C:ReceiveHit' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee_C:UserConstructionScript' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:149][915]LogMetaData: Removing '/Game/BaseballPOC/Tee.Tee_C:ExecuteUbergraph_Tee' ref from Metadata '/Game/Tee.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:ReceiveBeginPlay' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:ReceiveTick' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:DefaultSceneRoot' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:Camera' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:MotionController' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:Bat' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:Capsule' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:155][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C:UserConstructionScript' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.SKEL_VRPlayer_C' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:DefaultSceneRoot' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:Camera' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:MotionController' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:Bat' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:Capsule' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:ReceiveBeginPlay' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:UserConstructionScript' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:156][915]LogMetaData: Removing '/Game/BaseballPOC/VRPlayer.VRPlayer_C:ExecuteUbergraph_VRPlayer' ref from Metadata '/Game/VRPlayer.PackageMetaData'
+[2017.10.09-18.18.49:195][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/Baseball" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Baseball.uasset" SILENT=true
+[2017.10.09-18.18.49:230][915]LogSavePackage: Save=33.24ms
+[2017.10.09-18.18.49:230][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/Baseball0ACAF0EC4A403E664474C7B6DF3AE4B7.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Baseball.uasset'
+[2017.10.09-18.18.49:233][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Baseball.uasset
+[2017.10.09-18.18.49:240][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Baseball" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Baseball.uasset" SILENT=true
+[2017.10.09-18.18.49:257][915]LogSavePackage: Save=6.19ms
+[2017.10.09-18.18.49:257][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/BaseballD3BE838F4EEF4346025B7D84194148D3.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Baseball.uasset'
+[2017.10.09-18.18.49:260][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Baseball.uasset
+[2017.10.09-18.18.49:280][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/material_20___11701" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701.uasset" SILENT=true
+[2017.10.09-18.18.49:302][915]LogSavePackage: Save=19.41ms
+[2017.10.09-18.18.49:303][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/material_20___117013F1F06594AEA6CC8FC59FFAD3523FBC2.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701.uasset'
+[2017.10.09-18.18.49:306][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701.uasset
+[2017.10.09-18.18.49:329][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/material_20___11701_001" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_001.uasset" SILENT=true
+[2017.10.09-18.18.49:350][915]LogSavePackage: Save=17.61ms
+[2017.10.09-18.18.49:350][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/material_20___11701_0010FF97BD1476CAFF08D4B2D8C54F44408.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_001.uasset'
+[2017.10.09-18.18.49:352][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_001.uasset
+[2017.10.09-18.18.49:380][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/material_20___11701_003" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_003.uasset" SILENT=true
+[2017.10.09-18.18.49:400][915]LogSavePackage: Save=16.89ms
+[2017.10.09-18.18.49:400][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/material_20___11701_0033CF0254A4D055DAFC607D0A4013EC866.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_003.uasset'
+[2017.10.09-18.18.49:402][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_003.uasset
+[2017.10.09-18.18.49:427][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/material_20___11701_004" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_004.uasset" SILENT=true
+[2017.10.09-18.18.49:455][915]LogSavePackage: Save=25.72ms
+[2017.10.09-18.18.49:456][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/material_20___11701_004C298187B4FB003B752D806BF350B3A19.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_004.uasset'
+[2017.10.09-18.18.49:460][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_20___11701_004.uasset
+[2017.10.09-18.18.49:484][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/material_22___11701_001" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_22___11701_001.uasset" SILENT=true
+[2017.10.09-18.18.49:507][915]LogSavePackage: Save=20.60ms
+[2017.10.09-18.18.49:507][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/material_22___11701_001D934F29F4944A7CAB9A363B3A78BB9F4.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_22___11701_001.uasset'
+[2017.10.09-18.18.49:510][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_22___11701_001.uasset
+[2017.10.09-18.18.49:530][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/material_22___11701_003" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_22___11701_003.uasset" SILENT=true
+[2017.10.09-18.18.49:551][915]LogSavePackage: Save=17.94ms
+[2017.10.09-18.18.49:551][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/material_22___11701_003A17D6EDA4B5236CCF45DCDBDF761F98A.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_22___11701_003.uasset'
+[2017.10.09-18.18.49:553][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/material_22___11701_003.uasset
+[2017.10.09-18.18.49:574][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/Pitcher" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Pitcher.uasset" SILENT=true
+[2017.10.09-18.18.49:611][915]LogSavePackage: Save=35.15ms
+[2017.10.09-18.18.49:611][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/Pitcher3F1143934F2930FC520643AD17865C9F.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Pitcher.uasset'
+[2017.10.09-18.18.49:614][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Pitcher.uasset
+[2017.10.09-18.18.49:619][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Pitcher" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Pitcher.uasset" SILENT=true
+[2017.10.09-18.18.49:628][915]LogSavePackage: Save=5.25ms
+[2017.10.09-18.18.49:628][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/PitcherFEC33908471B376BFAD8A4ABD5A08342.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Pitcher.uasset'
+[2017.10.09-18.18.49:631][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Pitcher.uasset
+[2017.10.09-18.18.49:653][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/Tee" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Tee.uasset" SILENT=true
+[2017.10.09-18.18.49:690][915]LogSavePackage: Save=34.18ms
+[2017.10.09-18.18.49:690][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/Tee644477174482CBAAF1440A870ED9FD2E.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Tee.uasset'
+[2017.10.09-18.18.49:693][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/Tee.uasset
+[2017.10.09-18.18.49:697][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Tee" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Tee.uasset" SILENT=true
+[2017.10.09-18.18.49:714][915]LogSavePackage: Save=5.78ms
+[2017.10.09-18.18.49:714][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/TeeB4796F4448B13B86E58F0B8AF4AA3637.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Tee.uasset'
+[2017.10.09-18.18.49:717][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/Tee.uasset
+[2017.10.09-18.18.49:737][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/VRPlayer" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset" SILENT=true
+[2017.10.09-18.18.49:779][915]LogSavePackage: Save=39.84ms
+[2017.10.09-18.18.49:779][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/VRPlayer72FFBBFC4588DCD1CAF2B2A29EFB54F6.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset'
+[2017.10.09-18.18.49:782][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset
+[2017.10.09-18.18.49:786][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRPlayer" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/VRPlayer.uasset" SILENT=true
+[2017.10.09-18.18.49:797][915]LogSavePackage: Save=6.06ms
+[2017.10.09-18.18.49:797][915]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/VRPlayer237D1AC745041D5A66B079A4B2B472E5.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/VRPlayer.uasset'
+[2017.10.09-18.18.49:800][915]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/VRPlayer.uasset
+[2017.10.09-18.19.03:527][799]LogLinker: Warning: Can't find file '/Game/material_20___11701'
+[2017.10.09-18.19.03:527][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:527][799]LoadErrors: Error: /Game/baseballbat : Can't find file for asset. /Game/material_20___11701
+[2017.10.09-18.19.03:527][799]LogLinker: Warning: Can't find file '/Game/material_20___11701_001'
+[2017.10.09-18.19.03:528][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701_001' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:528][799]LoadErrors: Error: /Game/baseballbat : Can't find file for asset. /Game/material_20___11701_001
+[2017.10.09-18.19.03:528][799]LogLinker: Warning: Can't find file '/Game/material_20___11701_003'
+[2017.10.09-18.19.03:528][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701_003' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:528][799]LoadErrors: Error: /Game/baseballbat : Can't find file for asset. /Game/material_20___11701_003
+[2017.10.09-18.19.03:528][799]LogLinker: Warning: Can't find file '/Game/material_20___11701_004'
+[2017.10.09-18.19.03:528][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701_004' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:528][799]LoadErrors: Error: /Game/baseballbat : Can't find file for asset. /Game/material_20___11701_004
+[2017.10.09-18.19.03:528][799]LogLinker: Warning: Can't find file '/Game/material_22___11701_001'
+[2017.10.09-18.19.03:529][799]LogLinker: Warning: Can't find file for asset '/Game/material_22___11701_001' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:529][799]LoadErrors: Error: /Game/baseballbat : Can't find file for asset. /Game/material_22___11701_001
+[2017.10.09-18.19.03:529][799]LogLinker: Warning: Can't find file '/Game/material_22___11701_003'
+[2017.10.09-18.19.03:529][799]LogLinker: Warning: Can't find file for asset '/Game/material_22___11701_003' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:529][799]LoadErrors: Error: /Game/baseballbat : Can't find file for asset. /Game/material_22___11701_003
+[2017.10.09-18.19.03:529][799]LogLinker: Warning: Can't find file '/Game/material_20___11701'
+[2017.10.09-18.19.03:529][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:529][799]LogLinker: Warning: Can't find file '/Game/material_20___11701_001'
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701_001' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file '/Game/material_20___11701_003'
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701_003' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file '/Game/material_20___11701_004'
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file for asset '/Game/material_20___11701_004' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file '/Game/material_22___11701_001'
+[2017.10.09-18.19.03:530][799]LogLinker: Warning: Can't find file for asset '/Game/material_22___11701_001' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:531][799]LogLinker: Warning: Can't find file '/Game/material_22___11701_003'
+[2017.10.09-18.19.03:531][799]LogLinker: Warning: Can't find file for asset '/Game/material_22___11701_003' while loading C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/baseballbat.uasset.
+[2017.10.09-18.19.03:614][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/baseballbat" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/baseballbat.uasset" SILENT=true
+[2017.10.09-18.19.03:641][799]LogSavePackage: Save=22.88ms
+[2017.10.09-18.19.03:641][799]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/baseballbatEED75BBE471B22776D60CAA9771A89C4.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/baseballbat.uasset'
+[2017.10.09-18.19.03:644][799]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/baseballbat.uasset
+[2017.10.09-18.19.03:856][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/VRPlayer" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset" SILENT=true
+[2017.10.09-18.19.03:902][799]LogSavePackage: Save=41.59ms
+[2017.10.09-18.19.03:902][799]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/VRPlayerD41309684B9DB9B76802B2B93F436952.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset'
+[2017.10.09-18.19.03:905][799]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset
+[2017.10.09-18.19.12:593][880]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/Michael/Downloads/bat+hit+ball.wav)
+[2017.10.09-18.19.12:597][880]LogAudioDerivedData: Display: Building compressed audio format OGG wave bat+hit+ball...
+[2017.10.09-18.19.12:694][880]LogAudioDerivedData: Updated SoundWave->RawPCMDataSize during cooking SoundWave /Game/BaseballPOC/bat+hit+ball.bat+hit+ball.
+[2017.10.09-18.19.25:502][685]LogEditorViewport: Clicking on Actor (LMB): VRPlayer_C (VRPlayer)
+[2017.10.09-18.19.30:880][ 22]LogSlate: Took 0.000939 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.09-18.19.32:531][103]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0017 seconds. Added 113 classes and 0 folders.
+[2017.10.09-18.19.33:555][103]LogSlate: Took 0.000327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.09-18.20.17:017][ 28]BlueprintLog: New page: Compile VRPlayer
+[2017.10.09-18.20.22:058][248]LogSteamVRController: Tracker device 3 is being assigned unreal hand: Special 1, for player 0
+[2017.10.09-18.20.30:830][640]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.20.30:894][640]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.20.30:894][640]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.09-18.20.30:894][640]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:20:30 AM)
+[2017.10.09-18.20.30:895][640]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.20.30:906][640]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011571s)
+[2017.10.09-18.20.30:907][640]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.20.30:908][640]LogPlayLevel: PIE: World Init took: (0.001580s)
+[2017.10.09-18.20.30:908][640]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013686s)
+[2017.10.09-18.20.31:110][640]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.20.31:127][640]LogInit: FAudioDevice initialized.
+[2017.10.09-18.20.31:262][640]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.20.31:265][640]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.20.31
+[2017.10.09-18.20.31:265][640]LogWorld: Bringing up level for play took: 0.001781
+[2017.10.09-18.20.31:310][640]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2017.10.09-18.20.31:327][640]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.043
+[2017.10.09-18.20.31:327][640]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.20.31:406][641]LogRenderer: Reallocating scene render targets to support 3024x1680 Format 10 NumSamples 1 (Frame:1).
+[2017.10.09-18.21.05:483][154]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.21.05:763][154]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.21.53:994][963]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.21.54:023][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.21.54:024][963]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.09-18.21.54:034][963]LogPlayLevel: [PlayLevel] Compiling VRPlayer before play...
+[2017.10.09-18.21.54:677][963]LogPlayLevel: PlayLevel: Blueprint regeneration took 652 ms (1 blueprints)
+[2017.10.09-18.21.54:677][963]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:21:54 AM)
+[2017.10.09-18.21.54:677][963]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.21.54:698][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021300s)
+[2017.10.09-18.21.54:703][963]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.21.54:704][963]LogPlayLevel: PIE: World Init took: (0.004825s)
+[2017.10.09-18.21.54:704][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.026699s)
+[2017.10.09-18.21.54:785][963]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.21.54:795][963]LogInit: FAudioDevice initialized.
+[2017.10.09-18.21.54:912][963]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.21.54:916][963]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.21.54
+[2017.10.09-18.21.54:916][963]LogWorld: Bringing up level for play took: 0.002827
+[2017.10.09-18.21.54:936][963]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.653
+[2017.10.09-18.21.54:937][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.08:347][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.08:562][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.15:512][825]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.22.15:537][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.15:537][825]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.09-18.22.15:544][825]LogPlayLevel: [PlayLevel] Compiling VRPlayer before play...
+[2017.10.09-18.22.16:086][825]LogPlayLevel: PlayLevel: Blueprint regeneration took 549 ms (1 blueprints)
+[2017.10.09-18.22.16:087][825]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:22:16 AM)
+[2017.10.09-18.22.16:087][825]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.22.16:105][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017424s)
+[2017.10.09-18.22.16:106][825]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.22.16:112][825]LogPlayLevel: PIE: World Init took: (0.006776s)
+[2017.10.09-18.22.16:112][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.024979s)
+[2017.10.09-18.22.16:276][825]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.22.16:290][825]LogInit: FAudioDevice initialized.
+[2017.10.09-18.22.16:403][825]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.22.16:406][825]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.22.16
+[2017.10.09-18.22.16:407][825]LogWorld: Bringing up level for play took: 0.002350
+[2017.10.09-18.22.16:421][825]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.138
+[2017.10.09-18.22.16:422][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.25:952][245]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.26:203][245]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.30:341][391]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.22.30:372][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.30:372][391]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.09-18.22.30:380][391]LogPlayLevel: [PlayLevel] Compiling VRPlayer before play...
+[2017.10.09-18.22.31:169][391]LogPlayLevel: PlayLevel: Blueprint regeneration took 797 ms (1 blueprints)
+[2017.10.09-18.22.31:170][391]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:22:31 AM)
+[2017.10.09-18.22.31:170][391]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.22.31:182][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011717s)
+[2017.10.09-18.22.31:183][391]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.22.31:183][391]LogPlayLevel: PIE: World Init took: (0.001448s)
+[2017.10.09-18.22.31:184][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013654s)
+[2017.10.09-18.22.31:296][391]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.22.31:310][391]LogInit: FAudioDevice initialized.
+[2017.10.09-18.22.31:428][391]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.22.31:431][391]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.22.31
+[2017.10.09-18.22.31:431][391]LogWorld: Bringing up level for play took: 0.002056
+[2017.10.09-18.22.31:447][391]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.163
+[2017.10.09-18.22.31:447][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.41:769][774]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:791][776]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:810][777]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:825][778]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:840][779]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:854][780]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:870][781]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:885][782]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:901][783]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:921][784]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:944][785]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:964][786]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.41:986][787]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:009][788]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:032][789]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:055][790]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:077][791]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:096][792]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:114][793]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:130][794]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:146][795]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:164][796]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:184][797]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:209][798]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:303][799]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:341][800]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:363][801]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.42:383][802]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.45:121][910]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.45:121][910]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.45:144][911]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.45:171][912]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.22.45:178][912]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.22.45:424][912]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.06:100][707]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.23.06:124][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.06:124][707]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.09-18.23.06:135][707]LogPlayLevel: [PlayLevel] Compiling VRPlayer before play...
+[2017.10.09-18.23.06:985][707]LogPlayLevel: PlayLevel: Blueprint regeneration took 861 ms (1 blueprints)
+[2017.10.09-18.23.06:985][707]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:23:06 AM)
+[2017.10.09-18.23.06:985][707]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.23.06:995][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010190s)
+[2017.10.09-18.23.06:996][707]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.23.06:997][707]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2017.10.09-18.23.06:997][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.011560s)
+[2017.10.09-18.23.07:113][707]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.23.07:129][707]LogInit: FAudioDevice initialized.
+[2017.10.09-18.23.07:260][707]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.23.07:263][707]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.23.07
+[2017.10.09-18.23.07:264][707]LogWorld: Bringing up level for play took: 0.002313
+[2017.10.09-18.23.07:283][707]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.999
+[2017.10.09-18.23.07:283][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.20:186][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.20:401][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.25:622][486]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.23.25:647][486]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.25:647][486]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.09-18.23.25:654][486]LogPlayLevel: [PlayLevel] Compiling VRPlayer before play...
+[2017.10.09-18.23.26:597][486]LogPlayLevel: PlayLevel: Blueprint regeneration took 949 ms (1 blueprints)
+[2017.10.09-18.23.26:597][486]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:23:26 AM)
+[2017.10.09-18.23.26:597][486]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.23.26:608][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010613s)
+[2017.10.09-18.23.26:608][486]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.23.26:609][486]LogPlayLevel: PIE: World Init took: (0.001052s)
+[2017.10.09-18.23.26:609][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012050s)
+[2017.10.09-18.23.26:680][486]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.23.26:690][486]LogInit: FAudioDevice initialized.
+[2017.10.09-18.23.26:807][486]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.23.26:810][486]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.23.26
+[2017.10.09-18.23.26:811][486]LogWorld: Bringing up level for play took: 0.002522
+[2017.10.09-18.23.26:828][486]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1.545
+[2017.10.09-18.23.26:829][486]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.34:750][784]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:773][785]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:794][786]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:808][787]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:821][788]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:834][789]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:847][790]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:860][791]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:874][792]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:893][793]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:909][794]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:931][795]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:956][796]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.34:981][797]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:002][798]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:022][799]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:039][800]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:055][801]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:071][802]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:088][803]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:104][804]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:127][805]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:143][806]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:159][807]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.35:176][808]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.39:902][988]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.39:902][988]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.39:921][989]LogHMD: Warning:  SteamVR Compositor had an error on present (108)
+[2017.10.09-18.23.39:924][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.40:096][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.48:198][321]LogTemp: Repeating last play command: VR Preview
+[2017.10.09-18.23.48:232][321]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.23.48:232][321]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.09-18.23.48:243][321]LogPlayLevel: [PlayLevel] Compiling VRPlayer before play...
+[2017.10.09-18.23.49:195][321]LogPlayLevel: PlayLevel: Blueprint regeneration took 963 ms (1 blueprints)
+[2017.10.09-18.23.49:196][321]PIE: New page: PIE session: Minimal_Default (Oct 9, 2017, 10:23:49 AM)
+[2017.10.09-18.23.49:196][321]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2017.10.09-18.23.49:208][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012180s)
+[2017.10.09-18.23.49:209][321]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.10.09-18.23.49:210][321]LogPlayLevel: PIE: World Init took: (0.001271s)
+[2017.10.09-18.23.49:210][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013902s)
+[2017.10.09-18.23.49:307][321]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.09-18.23.49:326][321]LogInit: FAudioDevice initialized.
+[2017.10.09-18.23.49:468][321]LogLoad: Game class is 'GameModeBase'
+[2017.10.09-18.23.49:477][321]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2017.10.09-14.23.49
+[2017.10.09-18.23.49:478][321]LogWorld: Bringing up level for play took: 0.006061
+[2017.10.09-18.23.49:529][321]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 2.245
+[2017.10.09-18.23.49:530][321]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.24.18:301][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.24.18:545][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2017.10.09-18.24.26:694][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/bat+hit+ball" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/bat+hit+ball.uasset" SILENT=true
+[2017.10.09-18.24.26:707][865]LogSavePackage: Save=10.36ms
+[2017.10.09-18.24.26:707][865]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/bat+hit+ball149AE0174BFAAED9075D32A0882E9B42.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/bat+hit+ball.uasset'
+[2017.10.09-18.24.26:709][865]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/bat+hit+ball.uasset
+[2017.10.09-18.24.26:727][865]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseballPOC/VRPlayer" FILE="C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset" SILENT=true
+[2017.10.09-18.24.26:787][865]LogSavePackage: Save=48.31ms
+[2017.10.09-18.24.26:787][865]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/VRPlayer0C3F2B844380FC68EA910BA5D8569461.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset'
+[2017.10.09-18.24.26:790][865]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/BaseballPOC/VRPlayer.uasset
+[2017.10.09-18.24.26:981][865]LogSavePackage: Save=55.28ms
+[2017.10.09-18.24.26:981][865]LogSavePackage: Moving 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Saved/Minimal_DefaultD0DD9FCF465F322EED93498841A7C244.tmp' to 'C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.10.09-18.24.26:984][865]LogSavePackage: Display: Finished SavePackage C:/Users/Michael/Documents/Unreal Projects/BaseballHittingPOC/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.10.09-18.24.27:013][865]LogFileHelpers: Saving map 'Minimal_Default' took 0.219
+[2017.10.09-18.28.38:665][967]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Michael/Downloads/baseball-glove-fbx-hp/source/Baseball Glove FBX hp.fbx.fbx)
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: Geometry, ItemCount : 71
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: Material, ItemCount : 1
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: Model, ItemCount : 117
+[2017.10.09-18.28.38:725][967]LogFbx: ItemName: NodeAttribute, ItemCount : 46
+[2017.10.09-18.28.38:731][967]LogFbx: Loading FBX Scene from C:/Users/Michael/Downloads/baseball-glove-fbx-hp/source/Baseball Glove FBX hp.fbx.fbx
+[2017.10.09-18.28.39:196][967]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.09-18.28.41:758][967]LogFbx: Loading FBX Scene from C:/Users/Michael/Downloads/baseball-glove-fbx-hp/source/Baseball Glove FBX hp.fbx.fbx
+[2017.10.09-18.28.42:092][967]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.09-18.28.42:103][967]LogLinker: Can't find file '/Game/BaseballPOC/phong1'
+[2017.10.09-18.28.42:104][967]LogLinker: Can't find file '/Game/BaseballPOC/phong1'
+[2017.10.09-18.28.42:218][967]LogFbx: Warning: Triangulating static mesh pCube1
+[2017.10.09-18.28.59:502][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube1...
+[2017.10.09-18.29.28:363][967]LogStaticMesh: Built static mesh [28.86s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube1.Baseball_Glove_FBX_hp_fbx_pCube1
+[2017.10.09-18.29.28:468][967]LogFbx: Warning: Triangulating static mesh polySurface1
+[2017.10.09-18.29.29:664][967]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.09-18.29.29:673][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface1...
+[2017.10.09-18.29.31:324][967]LogStaticMesh: Built static mesh [1.65s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface1.Baseball_Glove_FBX_hp_fbx_polySurface1
+[2017.10.09-18.29.31:351][967]LogFbx: Warning: Triangulating static mesh polySurface3
+[2017.10.09-18.29.32:700][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface3...
+[2017.10.09-18.29.34:192][967]LogStaticMesh: Built static mesh [1.49s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface3.Baseball_Glove_FBX_hp_fbx_polySurface3
+[2017.10.09-18.29.34:218][967]LogFbx: Warning: Triangulating static mesh polySurface5
+[2017.10.09-18.29.35:719][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface5...
+[2017.10.09-18.29.36:536][967]LogStaticMesh: Built static mesh [0.82s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface5.Baseball_Glove_FBX_hp_fbx_polySurface5
+[2017.10.09-18.29.36:557][967]LogFbx: Warning: Triangulating static mesh pCube8
+[2017.10.09-18.29.36:922][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube8...
+[2017.10.09-18.29.36:960][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube8.Baseball_Glove_FBX_hp_fbx_pCube8
+[2017.10.09-18.29.36:969][967]LogFbx: Warning: Triangulating static mesh pCube9
+[2017.10.09-18.29.37:179][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube9...
+[2017.10.09-18.29.37:212][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube9.Baseball_Glove_FBX_hp_fbx_pCube9
+[2017.10.09-18.29.37:221][967]LogFbx: Warning: Triangulating static mesh pCube10
+[2017.10.09-18.29.37:507][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube10...
+[2017.10.09-18.29.37:554][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube10.Baseball_Glove_FBX_hp_fbx_pCube10
+[2017.10.09-18.29.37:569][967]LogFbx: Warning: Triangulating static mesh pCube11
+[2017.10.09-18.29.37:816][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube11...
+[2017.10.09-18.29.37:842][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube11.Baseball_Glove_FBX_hp_fbx_pCube11
+[2017.10.09-18.29.37:866][967]LogFbx: Warning: Triangulating static mesh pCube12
+[2017.10.09-18.29.44:486][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube12...
+[2017.10.09-18.29.59:650][967]LogStaticMesh: Built static mesh [15.16s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube12.Baseball_Glove_FBX_hp_fbx_pCube12
+[2017.10.09-18.29.59:707][967]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2017.10.09-18.30.01:038][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCylinder1...
+[2017.10.09-18.30.01:722][967]LogStaticMesh: Built static mesh [0.68s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCylinder1.Baseball_Glove_FBX_hp_fbx_pCylinder1
+[2017.10.09-18.30.01:739][967]LogFbx: Warning: Triangulating static mesh pCube25
+[2017.10.09-18.30.01:990][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube25...
+[2017.10.09-18.30.02:024][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube25.Baseball_Glove_FBX_hp_fbx_pCube25
+[2017.10.09-18.30.02:034][967]LogFbx: Warning: Triangulating static mesh extrudedSurface1
+[2017.10.09-18.30.02:307][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_extrudedSurface1...
+[2017.10.09-18.30.02:343][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_extrudedSurface1.Baseball_Glove_FBX_hp_fbx_extrudedSurface1
+[2017.10.09-18.30.02:352][967]LogFbx: Warning: Triangulating static mesh extrudedSurface3
+[2017.10.09-18.30.02:631][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_extrudedSurface3...
+[2017.10.09-18.30.02:684][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_extrudedSurface3.Baseball_Glove_FBX_hp_fbx_extrudedSurface3
+[2017.10.09-18.30.02:716][967]LogFbx: Warning: Triangulating static mesh pCylinder4
+[2017.10.09-18.30.11:056][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCylinder4...
+[2017.10.09-18.31.40:972][967]LogStaticMesh: Built static mesh [89.92s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCylinder4.Baseball_Glove_FBX_hp_fbx_pCylinder4
+[2017.10.09-18.31.41:012][967]LogFbx: Warning: Triangulating static mesh extrudedSurface4
+[2017.10.09-18.31.41:387][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_extrudedSurface4...
+[2017.10.09-18.31.41:439][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_extrudedSurface4.Baseball_Glove_FBX_hp_fbx_extrudedSurface4
+[2017.10.09-18.31.41:478][967]LogFbx: Warning: Triangulating static mesh pCylinder5
+[2017.10.09-18.31.51:248][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCylinder5...
+[2017.10.09-18.32.41:952][967]LogStaticMesh: Built static mesh [50.70s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCylinder5.Baseball_Glove_FBX_hp_fbx_pCylinder5
+[2017.10.09-18.32.41:985][967]LogFbx: Warning: Triangulating static mesh extrudedSurface5
+[2017.10.09-18.32.42:280][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_extrudedSurface5...
+[2017.10.09-18.32.42:321][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_extrudedSurface5.Baseball_Glove_FBX_hp_fbx_extrudedSurface5
+[2017.10.09-18.32.42:333][967]LogFbx: Warning: Triangulating static mesh pCube26
+[2017.10.09-18.32.42:566][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube26...
+[2017.10.09-18.32.42:602][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube26.Baseball_Glove_FBX_hp_fbx_pCube26
+[2017.10.09-18.32.42:618][967]LogFbx: Warning: Triangulating static mesh pCube27
+[2017.10.09-18.32.42:851][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube27...
+[2017.10.09-18.32.42:872][967]LogStaticMesh: Built static mesh [0.02s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube27.Baseball_Glove_FBX_hp_fbx_pCube27
+[2017.10.09-18.32.42:886][967]LogFbx: Warning: Triangulating static mesh pCube28
+[2017.10.09-18.32.43:153][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube28...
+[2017.10.09-18.32.43:190][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube28.Baseball_Glove_FBX_hp_fbx_pCube28
+[2017.10.09-18.32.43:200][967]LogFbx: Warning: Triangulating static mesh pCube29
+[2017.10.09-18.32.43:426][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube29...
+[2017.10.09-18.32.43:461][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube29.Baseball_Glove_FBX_hp_fbx_pCube29
+[2017.10.09-18.32.43:476][967]LogFbx: Warning: Triangulating static mesh pCube30
+[2017.10.09-18.32.43:700][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube30...
+[2017.10.09-18.32.43:725][967]LogStaticMesh: Built static mesh [0.02s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube30.Baseball_Glove_FBX_hp_fbx_pCube30
+[2017.10.09-18.32.43:737][967]LogFbx: Warning: Triangulating static mesh pCube31
+[2017.10.09-18.32.43:996][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube31...
+[2017.10.09-18.32.44:048][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube31.Baseball_Glove_FBX_hp_fbx_pCube31
+[2017.10.09-18.32.44:068][967]LogFbx: Warning: Triangulating static mesh pCube32
+[2017.10.09-18.32.44:343][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube32...
+[2017.10.09-18.32.44:403][967]LogStaticMesh: Built static mesh [0.06s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube32.Baseball_Glove_FBX_hp_fbx_pCube32
+[2017.10.09-18.32.44:415][967]LogFbx: Warning: Triangulating static mesh pCube33
+[2017.10.09-18.32.44:624][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube33...
+[2017.10.09-18.32.44:677][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube33.Baseball_Glove_FBX_hp_fbx_pCube33
+[2017.10.09-18.32.44:688][967]LogFbx: Warning: Triangulating static mesh pCube34
+[2017.10.09-18.32.44:896][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube34...
+[2017.10.09-18.32.44:944][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube34.Baseball_Glove_FBX_hp_fbx_pCube34
+[2017.10.09-18.32.44:955][967]LogFbx: Warning: Triangulating static mesh pCube35
+[2017.10.09-18.32.45:186][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube35...
+[2017.10.09-18.32.45:217][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube35.Baseball_Glove_FBX_hp_fbx_pCube35
+[2017.10.09-18.32.45:229][967]LogFbx: Warning: Triangulating static mesh pCube36
+[2017.10.09-18.32.45:455][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube36...
+[2017.10.09-18.32.45:491][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube36.Baseball_Glove_FBX_hp_fbx_pCube36
+[2017.10.09-18.32.45:501][967]LogFbx: Warning: Triangulating static mesh pCube37
+[2017.10.09-18.32.45:771][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube37...
+[2017.10.09-18.32.45:816][967]LogStaticMesh: Built static mesh [0.05s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube37.Baseball_Glove_FBX_hp_fbx_pCube37
+[2017.10.09-18.32.45:826][967]LogFbx: Warning: Triangulating static mesh pCube38
+[2017.10.09-18.32.46:042][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube38...
+[2017.10.09-18.32.46:084][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube38.Baseball_Glove_FBX_hp_fbx_pCube38
+[2017.10.09-18.32.46:093][967]LogFbx: Warning: Triangulating static mesh pCube39
+[2017.10.09-18.32.46:336][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube39...
+[2017.10.09-18.32.46:365][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube39.Baseball_Glove_FBX_hp_fbx_pCube39
+[2017.10.09-18.32.46:373][967]LogFbx: Warning: Triangulating static mesh pCube40
+[2017.10.09-18.32.46:599][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube40...
+[2017.10.09-18.32.46:637][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube40.Baseball_Glove_FBX_hp_fbx_pCube40
+[2017.10.09-18.32.46:646][967]LogFbx: Warning: Triangulating static mesh pCube41
+[2017.10.09-18.32.46:897][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube41...
+[2017.10.09-18.32.46:935][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube41.Baseball_Glove_FBX_hp_fbx_pCube41
+[2017.10.09-18.32.46:945][967]LogFbx: Warning: Triangulating static mesh pCube42
+[2017.10.09-18.32.47:187][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube42...
+[2017.10.09-18.32.47:213][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube42.Baseball_Glove_FBX_hp_fbx_pCube42
+[2017.10.09-18.32.47:223][967]LogFbx: Warning: Triangulating static mesh pCube46
+[2017.10.09-18.32.47:857][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube46...
+[2017.10.09-18.32.48:158][967]LogStaticMesh: Built static mesh [0.30s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube46.Baseball_Glove_FBX_hp_fbx_pCube46
+[2017.10.09-18.32.48:173][967]LogFbx: Warning: Triangulating static mesh polySurface7
+[2017.10.09-18.32.48:321][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface7...
+[2017.10.09-18.32.48:341][967]LogStaticMesh: Built static mesh [0.02s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface7.Baseball_Glove_FBX_hp_fbx_polySurface7
+[2017.10.09-18.32.48:349][967]LogFbx: Warning: Triangulating static mesh polySurface8
+[2017.10.09-18.32.48:506][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface8...
+[2017.10.09-18.32.48:537][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface8.Baseball_Glove_FBX_hp_fbx_polySurface8
+[2017.10.09-18.32.48:546][967]LogFbx: Warning: Triangulating static mesh polySurface9
+[2017.10.09-18.32.48:799][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface9...
+[2017.10.09-18.32.48:838][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface9.Baseball_Glove_FBX_hp_fbx_polySurface9
+[2017.10.09-18.32.48:847][967]LogFbx: Warning: Triangulating static mesh polySurface10
+[2017.10.09-18.32.48:988][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface10...
+[2017.10.09-18.32.49:007][967]LogStaticMesh: Built static mesh [0.02s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface10.Baseball_Glove_FBX_hp_fbx_polySurface10
+[2017.10.09-18.32.49:022][967]LogFbx: Warning: Triangulating static mesh pCube48
+[2017.10.09-18.32.49:249][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube48...
+[2017.10.09-18.32.49:286][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube48.Baseball_Glove_FBX_hp_fbx_pCube48
+[2017.10.09-18.32.49:294][967]LogFbx: Warning: Triangulating static mesh pCube49
+[2017.10.09-18.32.49:630][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube49...
+[2017.10.09-18.32.49:672][967]LogStaticMesh: Built static mesh [0.04s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube49.Baseball_Glove_FBX_hp_fbx_pCube49
+[2017.10.09-18.32.49:680][967]LogFbx: Warning: Triangulating static mesh pCube50
+[2017.10.09-18.32.49:855][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube50...
+[2017.10.09-18.32.49:947][967]LogStaticMesh: Built static mesh [0.09s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube50.Baseball_Glove_FBX_hp_fbx_pCube50
+[2017.10.09-18.32.49:960][967]LogFbx: Warning: Triangulating static mesh polySurface11
+[2017.10.09-18.32.50:092][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface11...
+[2017.10.09-18.32.50:125][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface11.Baseball_Glove_FBX_hp_fbx_polySurface11
+[2017.10.09-18.32.50:133][967]LogFbx: Warning: Triangulating static mesh polySurface12
+[2017.10.09-18.32.50:389][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface12...
+[2017.10.09-18.32.50:418][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface12.Baseball_Glove_FBX_hp_fbx_polySurface12
+[2017.10.09-18.32.50:438][967]LogFbx: Warning: Triangulating static mesh polySurface13
+[2017.10.09-18.32.50:636][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_polySurface13...
+[2017.10.09-18.32.50:669][967]LogStaticMesh: Built static mesh [0.03s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_polySurface13.Baseball_Glove_FBX_hp_fbx_polySurface13
+[2017.10.09-18.32.50:681][967]LogFbx: Warning: Triangulating static mesh pPipe1
+[2017.10.09-18.32.51:006][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe1...
+[2017.10.09-18.32.51:149][967]LogStaticMesh: Built static mesh [0.14s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe1.Baseball_Glove_FBX_hp_fbx_pPipe1
+[2017.10.09-18.32.51:159][967]LogFbx: Warning: Triangulating static mesh pPipe2
+[2017.10.09-18.32.51:621][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe2...
+[2017.10.09-18.32.51:779][967]LogStaticMesh: Built static mesh [0.16s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe2.Baseball_Glove_FBX_hp_fbx_pPipe2
+[2017.10.09-18.32.51:791][967]LogFbx: Warning: Triangulating static mesh pPipe3
+[2017.10.09-18.32.52:365][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe3...
+[2017.10.09-18.32.52:553][967]LogStaticMesh: Built static mesh [0.19s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe3.Baseball_Glove_FBX_hp_fbx_pPipe3
+[2017.10.09-18.32.52:561][967]LogFbx: Warning: Triangulating static mesh pPipe4
+[2017.10.09-18.32.53:128][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe4...
+[2017.10.09-18.32.53:253][967]LogStaticMesh: Built static mesh [0.13s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe4.Baseball_Glove_FBX_hp_fbx_pPipe4
+[2017.10.09-18.32.53:261][967]LogFbx: Warning: Triangulating static mesh pPipe5
+[2017.10.09-18.32.53:584][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe5...
+[2017.10.09-18.32.53:725][967]LogStaticMesh: Built static mesh [0.14s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe5.Baseball_Glove_FBX_hp_fbx_pPipe5
+[2017.10.09-18.32.53:727][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\mesh\TriangleMeshBuilder.cpp 1080) eINTERNAL_ERROR : cleaning the mesh failed
+[2017.10.09-18.32.53:727][967]LogPhysics: Warning: Failed to cook TriMesh: /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe5.Baseball_Glove_FBX_hp_fbx_pPipe5.
+[2017.10.09-18.32.53:727][967]LogPhysics: Warning: Attempt to build physics data for /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe5.Baseball_Glove_FBX_hp_fbx_pPipe5:BodySetup_0 when we are unable to.
+[2017.10.09-18.32.53:738][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\mesh\TriangleMeshBuilder.cpp 1080) eINTERNAL_ERROR : cleaning the mesh failed
+[2017.10.09-18.32.53:738][967]LogPhysics: Warning: Failed to cook TriMesh: /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe5.Baseball_Glove_FBX_hp_fbx_pPipe5.
+[2017.10.09-18.32.53:738][967]LogPhysics: Warning: Attempt to build physics data for /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe5.Baseball_Glove_FBX_hp_fbx_pPipe5:BodySetup_0 when we are unable to.
+[2017.10.09-18.32.53:758][967]LogFbx: Warning: Triangulating static mesh pPipe6
+[2017.10.09-18.32.54:245][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe6...
+[2017.10.09-18.32.54:367][967]LogStaticMesh: Built static mesh [0.12s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6
+[2017.10.09-18.32.54:367][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\mesh\TriangleMeshBuilder.cpp 1080) eINTERNAL_ERROR : cleaning the mesh failed
+[2017.10.09-18.32.54:367][967]LogPhysics: Warning: Failed to cook TriMesh: /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6.
+[2017.10.09-18.32.54:367][967]LogPhysics: Warning: Attempt to build physics data for /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6:BodySetup_0 when we are unable to.
+[2017.10.09-18.32.54:370][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.10.09-18.32.54:371][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: Failed to cook convex: /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6 0 (FlipX:0). The remaining elements will not get cooked.
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: Failed to cook convex: /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6 0 (FlipX:1). The remaining elements will not get cooked.
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Release-4.17+PhysX_Compile\Sync\Engine\Source\ThirdParty\PhysX\PhysX_3.4\Source\PhysXCooking\src\mesh\TriangleMeshBuilder.cpp 1080) eINTERNAL_ERROR : cleaning the mesh failed
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: Failed to cook TriMesh: /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6.
+[2017.10.09-18.32.54:384][967]LogPhysics: Warning: Attempt to build physics data for /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe6.Baseball_Glove_FBX_hp_fbx_pPipe6:BodySetup_0 when we are unable to.
+[2017.10.09-18.32.54:390][967]LogFbx: Warning: Triangulating static mesh pPipe7
+[2017.10.09-18.32.54:846][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe7...
+[2017.10.09-18.32.54:978][967]LogStaticMesh: Built static mesh [0.13s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe7.Baseball_Glove_FBX_hp_fbx_pPipe7
+[2017.10.09-18.32.54:988][967]LogFbx: Warning: Triangulating static mesh pPipe8
+[2017.10.09-18.32.55:362][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe8...
+[2017.10.09-18.32.55:488][967]LogStaticMesh: Built static mesh [0.13s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe8.Baseball_Glove_FBX_hp_fbx_pPipe8
+[2017.10.09-18.32.55:498][967]LogFbx: Warning: Triangulating static mesh pPipe9
+[2017.10.09-18.32.56:030][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe9...
+[2017.10.09-18.32.56:203][967]LogStaticMesh: Built static mesh [0.17s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe9.Baseball_Glove_FBX_hp_fbx_pPipe9
+[2017.10.09-18.32.56:220][967]LogFbx: Warning: Triangulating static mesh pPipe10
+[2017.10.09-18.32.56:789][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe10...
+[2017.10.09-18.32.56:914][967]LogStaticMesh: Built static mesh [0.13s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe10.Baseball_Glove_FBX_hp_fbx_pPipe10
+[2017.10.09-18.32.56:927][967]LogFbx: Warning: Triangulating static mesh pPipe11
+[2017.10.09-18.32.57:382][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe11...
+[2017.10.09-18.32.57:531][967]LogStaticMesh: Built static mesh [0.15s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe11.Baseball_Glove_FBX_hp_fbx_pPipe11
+[2017.10.09-18.32.57:543][967]LogFbx: Warning: Triangulating static mesh pPipe12
+[2017.10.09-18.32.57:873][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe12...
+[2017.10.09-18.32.57:992][967]LogStaticMesh: Built static mesh [0.12s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe12.Baseball_Glove_FBX_hp_fbx_pPipe12
+[2017.10.09-18.32.58:000][967]LogFbx: Warning: Triangulating static mesh pPipe13
+[2017.10.09-18.32.58:393][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe13...
+[2017.10.09-18.32.58:545][967]LogStaticMesh: Built static mesh [0.15s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe13.Baseball_Glove_FBX_hp_fbx_pPipe13
+[2017.10.09-18.32.58:553][967]LogFbx: Warning: Triangulating static mesh pPipe14
+[2017.10.09-18.32.58:933][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe14...
+[2017.10.09-18.32.59:061][967]LogStaticMesh: Built static mesh [0.13s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe14.Baseball_Glove_FBX_hp_fbx_pPipe14
+[2017.10.09-18.32.59:077][967]LogFbx: Warning: Triangulating static mesh pPipe15
+[2017.10.09-18.32.59:520][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe15...
+[2017.10.09-18.32.59:647][967]LogStaticMesh: Built static mesh [0.13s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe15.Baseball_Glove_FBX_hp_fbx_pPipe15
+[2017.10.09-18.32.59:655][967]LogFbx: Warning: Triangulating static mesh pPipe16
+[2017.10.09-18.33.00:064][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe16...
+[2017.10.09-18.33.00:222][967]LogStaticMesh: Built static mesh [0.16s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe16.Baseball_Glove_FBX_hp_fbx_pPipe16
+[2017.10.09-18.33.00:232][967]LogFbx: Warning: Triangulating static mesh pPipe17
+[2017.10.09-18.33.00:557][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe17...
+[2017.10.09-18.33.00:678][967]LogStaticMesh: Built static mesh [0.12s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe17.Baseball_Glove_FBX_hp_fbx_pPipe17
+[2017.10.09-18.33.00:686][967]LogFbx: Warning: Triangulating static mesh pPipe18
+[2017.10.09-18.33.01:340][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe18...
+[2017.10.09-18.33.01:475][967]LogStaticMesh: Built static mesh [0.14s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe18.Baseball_Glove_FBX_hp_fbx_pPipe18
+[2017.10.09-18.33.01:485][967]LogFbx: Warning: Triangulating static mesh pPipe19
+[2017.10.09-18.33.02:050][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe19...
+[2017.10.09-18.33.02:211][967]LogStaticMesh: Built static mesh [0.16s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe19.Baseball_Glove_FBX_hp_fbx_pPipe19
+[2017.10.09-18.33.02:226][967]LogFbx: Warning: Triangulating static mesh pPipe20
+[2017.10.09-18.33.02:924][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe20...
+[2017.10.09-18.33.03:063][967]LogStaticMesh: Built static mesh [0.14s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe20.Baseball_Glove_FBX_hp_fbx_pPipe20
+[2017.10.09-18.33.03:084][967]LogFbx: Warning: Triangulating static mesh pPipe21
+[2017.10.09-18.33.03:506][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe21...
+[2017.10.09-18.33.03:886][967]LogStaticMesh: Built static mesh [0.38s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe21.Baseball_Glove_FBX_hp_fbx_pPipe21
+[2017.10.09-18.33.03:897][967]LogFbx: Warning: Triangulating static mesh pPipe22
+[2017.10.09-18.33.04:292][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe22...
+[2017.10.09-18.33.04:462][967]LogStaticMesh: Built static mesh [0.17s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe22.Baseball_Glove_FBX_hp_fbx_pPipe22
+[2017.10.09-18.33.04:472][967]LogFbx: Warning: Triangulating static mesh pPipe24
+[2017.10.09-18.33.04:875][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe24...
+[2017.10.09-18.33.04:955][967]LogStaticMesh: Built static mesh [0.08s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe24.Baseball_Glove_FBX_hp_fbx_pPipe24
+[2017.10.09-18.33.04:964][967]LogFbx: Warning: Triangulating static mesh pPipe25
+[2017.10.09-18.33.05:405][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe25...
+[2017.10.09-18.33.05:608][967]LogStaticMesh: Built static mesh [0.20s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe25.Baseball_Glove_FBX_hp_fbx_pPipe25
+[2017.10.09-18.33.05:621][967]LogFbx: Warning: Triangulating static mesh pPipe26
+[2017.10.09-18.33.05:629][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pPipe26...
+[2017.10.09-18.33.05:630][967]LogStaticMesh: Built static mesh [0.00s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pPipe26.Baseball_Glove_FBX_hp_fbx_pPipe26
+[2017.10.09-18.33.05:646][967]LogFbx: Warning: Triangulating static mesh pCube55
+[2017.10.09-18.33.06:239][967]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx_pCube55...
+[2017.10.09-18.33.06:360][967]LogStaticMesh: Built static mesh [0.12s] /Game/BaseballPOC/Baseball_Glove_FBX_hp_fbx_pCube55.Baseball_Glove_FBX_hp_fbx_pCube55
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:490][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:491][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.33.06:492][967]FBXImport: Warning: Warning: The imported mesh is very small. This is most likely an issue with the units used when exporting to FBX. 
+[2017.10.09-18.34.01:694][808]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Michael/Downloads/baseball-glove-fbx-hp/source/Baseball Glove FBX hp.fbx.fbx)
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: Geometry, ItemCount : 71
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: Material, ItemCount : 1
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: Model, ItemCount : 117
+[2017.10.09-18.34.01:750][808]LogFbx: ItemName: NodeAttribute, ItemCount : 46
+[2017.10.09-18.34.01:755][808]LogFbx: Loading FBX Scene from C:/Users/Michael/Downloads/baseball-glove-fbx-hp/source/Baseball Glove FBX hp.fbx.fbx
+[2017.10.09-18.34.02:028][808]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.09-18.34.23:968][808]LogFbx: Loading FBX Scene from C:/Users/Michael/Downloads/baseball-glove-fbx-hp/source/Baseball Glove FBX hp.fbx.fbx
+[2017.10.09-18.34.24:242][808]LogFbx: FBX Scene Loaded Succesfully
+[2017.10.09-18.34.24:296][808]LogFbx: Warning: Triangulating static mesh pCube1
+[2017.10.09-18.34.37:248][808]LogFbx: Warning: Triangulating static mesh polySurface1
+[2017.10.09-18.34.38:541][808]LogFbx: Warning: Triangulating static mesh polySurface3
+[2017.10.09-18.34.39:682][808]LogFbx: Warning: Triangulating static mesh polySurface5
+[2017.10.09-18.34.40:930][808]LogFbx: Warning: Triangulating static mesh pCube8
+[2017.10.09-18.34.41:159][808]LogFbx: Warning: Triangulating static mesh pCube9
+[2017.10.09-18.34.41:418][808]LogFbx: Warning: Triangulating static mesh pCube10
+[2017.10.09-18.34.41:615][808]LogFbx: Warning: Triangulating static mesh pCube11
+[2017.10.09-18.34.41:950][808]LogFbx: Warning: Triangulating static mesh pCube12
+[2017.10.09-18.34.47:382][808]LogFbx: Warning: Triangulating static mesh pCylinder1
+[2017.10.09-18.34.48:807][808]LogFbx: Warning: Triangulating static mesh pCube25
+[2017.10.09-18.34.48:977][808]LogFbx: Warning: Triangulating static mesh extrudedSurface1
+[2017.10.09-18.34.49:212][808]LogFbx: Warning: Triangulating static mesh extrudedSurface3
+[2017.10.09-18.34.49:416][808]LogFbx: Warning: Triangulating static mesh pCylinder4
+[2017.10.09-18.34.57:440][808]LogFbx: Warning: Triangulating static mesh extrudedSurface4
+[2017.10.09-18.34.57:801][808]LogFbx: Warning: Triangulating static mesh pCylinder5
+[2017.10.09-18.35.04:943][808]LogFbx: Warning: Triangulating static mesh extrudedSurface5
+[2017.10.09-18.35.05:184][808]LogFbx: Warning: Triangulating static mesh pCube26
+[2017.10.09-18.35.05:499][808]LogFbx: Warning: Triangulating static mesh pCube27
+[2017.10.09-18.35.05:716][808]LogFbx: Warning: Triangulating static mesh pCube28
+[2017.10.09-18.35.05:870][808]LogFbx: Warning: Triangulating static mesh pCube29
+[2017.10.09-18.35.06:100][808]LogFbx: Warning: Triangulating static mesh pCube30
+[2017.10.09-18.35.06:271][808]LogFbx: Warning: Triangulating static mesh pCube31
+[2017.10.09-18.35.06:464][808]LogFbx: Warning: Triangulating static mesh pCube32
+[2017.10.09-18.35.06:679][808]LogFbx: Warning: Triangulating static mesh pCube33
+[2017.10.09-18.35.06:930][808]LogFbx: Warning: Triangulating static mesh pCube34
+[2017.10.09-18.35.07:102][808]LogFbx: Warning: Triangulating static mesh pCube35
+[2017.10.09-18.35.07:333][808]LogFbx: Warning: Triangulating static mesh pCube36
+[2017.10.09-18.35.07:590][808]LogFbx: Warning: Triangulating static mesh pCube37
+[2017.10.09-18.35.07:729][808]LogFbx: Warning: Triangulating static mesh pCube38
+[2017.10.09-18.35.07:944][808]LogFbx: Warning: Triangulating static mesh pCube39
+[2017.10.09-18.35.08:086][808]LogFbx: Warning: Triangulating static mesh pCube40
+[2017.10.09-18.35.08:257][808]LogFbx: Warning: Triangulating static mesh pCube41
+[2017.10.09-18.35.08:544][808]LogFbx: Warning: Triangulating static mesh pCube42
+[2017.10.09-18.35.08:700][808]LogFbx: Warning: Triangulating static mesh pCube46
+[2017.10.09-18.35.09:370][808]LogFbx: Warning: Triangulating static mesh polySurface7
+[2017.10.09-18.35.09:525][808]LogFbx: Warning: Triangulating static mesh polySurface8
+[2017.10.09-18.35.09:728][808]LogFbx: Warning: Triangulating static mesh polySurface9
+[2017.10.09-18.35.10:131][808]LogFbx: Warning: Triangulating static mesh polySurface10
+[2017.10.09-18.35.10:274][808]LogFbx: Warning: Triangulating static mesh pCube48
+[2017.10.09-18.35.10:468][808]LogFbx: Warning: Triangulating static mesh pCube49
+[2017.10.09-18.35.10:638][808]LogFbx: Warning: Triangulating static mesh pCube50
+[2017.10.09-18.35.10:798][808]LogFbx: Warning: Triangulating static mesh polySurface11
+[2017.10.09-18.35.11:010][808]LogFbx: Warning: Triangulating static mesh polySurface12
+[2017.10.09-18.35.11:286][808]LogFbx: Warning: Triangulating static mesh polySurface13
+[2017.10.09-18.35.11:615][808]LogFbx: Warning: Triangulating static mesh pPipe1
+[2017.10.09-18.35.11:923][808]LogFbx: Warning: Triangulating static mesh pPipe2
+[2017.10.09-18.35.12:400][808]LogFbx: Warning: Triangulating static mesh pPipe3
+[2017.10.09-18.35.12:848][808]LogFbx: Warning: Triangulating static mesh pPipe4
+[2017.10.09-18.35.13:263][808]LogFbx: Warning: Triangulating static mesh pPipe5
+[2017.10.09-18.35.13:712][808]LogFbx: Warning: Triangulating static mesh pPipe6
+[2017.10.09-18.35.14:064][808]LogFbx: Warning: Triangulating static mesh pPipe7
+[2017.10.09-18.35.14:578][808]LogFbx: Warning: Triangulating static mesh pPipe8
+[2017.10.09-18.35.15:025][808]LogFbx: Warning: Triangulating static mesh pPipe9
+[2017.10.09-18.35.15:499][808]LogFbx: Warning: Triangulating static mesh pPipe10
+[2017.10.09-18.35.15:915][808]LogFbx: Warning: Triangulating static mesh pPipe11
+[2017.10.09-18.35.16:350][808]LogFbx: Warning: Triangulating static mesh pPipe12
+[2017.10.09-18.35.16:786][808]LogFbx: Warning: Triangulating static mesh pPipe13
+[2017.10.09-18.35.17:271][808]LogFbx: Warning: Triangulating static mesh pPipe14
+[2017.10.09-18.35.17:851][808]LogFbx: Warning: Triangulating static mesh pPipe15
+[2017.10.09-18.35.18:313][808]LogFbx: Warning: Triangulating static mesh pPipe16
+[2017.10.09-18.35.18:810][808]LogFbx: Warning: Triangulating static mesh pPipe17
+[2017.10.09-18.35.19:257][808]LogFbx: Warning: Triangulating static mesh pPipe18
+[2017.10.09-18.35.19:754][808]LogFbx: Warning: Triangulating static mesh pPipe19
+[2017.10.09-18.35.20:116][808]LogFbx: Warning: Triangulating static mesh pPipe20
+[2017.10.09-18.35.20:565][808]LogFbx: Warning: Triangulating static mesh pPipe21
+[2017.10.09-18.35.20:940][808]LogFbx: Warning: Triangulating static mesh pPipe22
+[2017.10.09-18.35.21:288][808]LogFbx: Warning: Triangulating static mesh pPipe24
+[2017.10.09-18.35.21:805][808]LogFbx: Warning: Triangulating static mesh pPipe25
+[2017.10.09-18.35.22:256][808]LogFbx: Warning: Triangulating static mesh pPipe26
+[2017.10.09-18.35.22:267][808]LogFbx: Warning: Triangulating static mesh pCube55
+[2017.10.09-18.35.23:755][808]LogStaticMesh: Building static mesh Baseball_Glove_FBX_hp_fbx...
